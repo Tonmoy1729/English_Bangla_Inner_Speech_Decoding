@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated research article."
+title: "Low-Channel English-Bangla Inner-Speech EEG Analysis"
+type: software
+authors:
+  - family-names: "Paul"
+    given-names: "Tonmoy"
+  - family-names: "Muhuri"
+    given-names: "Dip"
+  - family-names: "Abedin"
+    given-names: "Md. Joynul"
+version: 1.0.0
+date-released: 2026-11-08
+repository-code: "https://github.com/Tonmoy1729/English_Bangla_Inner_Speech_Decoding"
+license: MIT

@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local machine configuration
+config.py
+
+# IDE files
+.idea/
+.vscode/
+
+# Private/local EEG data
+data/
+raw_data/
+private_data/
+
+# Participant-identifying files
+*_subject_ID_mapping.csv
+*participant_mapping*
+*subject_mapping*
+
+# Temporary/system files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
